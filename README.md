@@ -42,3 +42,4 @@ Maquettes de l'application de soutien scolaire en ligne responsive et comprenant
 
 ## Ressources fournies
 
+- Récapitulatif des besoins du client 
