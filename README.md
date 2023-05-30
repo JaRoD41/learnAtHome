@@ -28,7 +28,7 @@ Maquettes de l'application de soutien scolaire en ligne responsive et comprenant
 
 ## Livrables
 
-- Un document PDF contenant les diagrammes de cas d’usage
+- Un document PDF contenant les diagrammes de cas d’utilisation
 - Un document PDF contenant les user stories avec critère(s) d’acceptation
 - Un document PDF contenant les maquettes du site
 - Un document TXT contenant le lien vers le tableau Kanban (Notion, Trello, or GitHub)
